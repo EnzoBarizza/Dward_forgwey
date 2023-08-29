@@ -1,0 +1,13 @@
+{
+    "name": "Steel",
+    "category": "patchouli:metals",
+    "icon": "mythicmetals:steel_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:steel_ingot",
+            "title": "Steel",
+            "text": "Steel, a durable alloy made of $(item)Manganese$() and $(item)Iron$()"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Silver",
+    "category": "patchouli:metals",
+    "icon": "mythicmetals:silver_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:silver_ingot",
+            "title": "Silver",
+            "text": "Silver, a malleable and cheap metal"
+        }
+    ]
+}

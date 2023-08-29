@@ -1,0 +1,13 @@
+{
+    "name": "Bronze",
+    "category": "patchouli:metals",
+    "icon": "mythicmetals:bronze_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:bronze_ingot",
+            "title": "Bronze",
+            "text": "Alloy made of Cooper and Tin"
+        }
+    ]
+}

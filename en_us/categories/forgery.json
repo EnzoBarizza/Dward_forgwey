@@ -1,0 +1,5 @@
+{
+    "name": "Forgery",
+    "description": "Hello again dear $(playername), in this category you will learn everything about building your own forge, so let's go",
+    "icon": "alloy_forgery:adamantite_block_forge_controller"
+}

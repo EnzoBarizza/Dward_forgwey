@@ -1,0 +1,67 @@
+{
+    "name": "Aquarium",
+    "category": "patchouli:mythic_metals",
+    "icon": "mythicmetals:aquarium_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_ingot",
+            "title": "Aquarium",
+            "text": "Aquarium is a mythical metal know for his aquatic properties, each item gives you: a different aquatic related effect, only found on ocean caves"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_sword",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Aqua Affinity"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_pickaxe",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Aqua Affinity"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_axe",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Aqua Affinity"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_shovel",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Aqua Affinity"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_hoe",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Aqua Affinity"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_helmet",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Aqua Affinity"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_chestplate",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Respiration II"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_leggings",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Respiration II"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:aquarium_boots",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#55FFFF)Natural Depth Strider III"
+        }
+    ]
+}

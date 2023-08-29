@@ -1,0 +1,25 @@
+{
+    "name": "Midas Gold",
+    "category": "patchouli:mythic_metals",
+    "icon": "mythicmetals:midas_gold_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:midas_gold_ingot",
+            "title": "Midas Gold",
+            "text": "Midas Gold, a substance created by a touch of a mythic creature, this substance has forbidden properties and can be only find in the underworld."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:midas_gold_sword",
+            "link_recipe": true,
+            "text": "Can be folded in the $(item)Smithing Table$() with $(item)Midas Gold Block$() to increase damage"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:gilded_midas_gold_sword",
+            "link_recipe": true,
+            "text": "this sword has a forgotten whereabouts, but when found, its damage can be increased by folding them with $(item)Midas Gold Blocks$() in the $(item)Smithing Table"
+        }
+    ]
+}

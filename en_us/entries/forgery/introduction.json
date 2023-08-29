@@ -1,0 +1,15 @@
+{
+    "name": "Forges and You",
+    "category": "patchouli:forgery",
+    "icon": "minecraft:blast_furnace",
+    "priority": true,
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Forges and You",
+            "text": "Hi my dear $(playername), now i will explain somethings about how the forges work. $(br2)First off all, you need to understand every forge has a different tier and based on that tier the fuel level changes, certain alloys can only be synthesize on forges above certain tiers."
+        },
+        "This chapter will be really short... beacause i don't have much time left... soooo see ya"
+    ]
+}

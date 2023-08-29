@@ -1,0 +1,91 @@
+{
+    "name": "Banglum",
+    "category": "patchouli:mythic_metals",
+    "icon": "mythicmetals:banglum_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:banglum_ingot",
+            "title": "Banglum",
+            "text": "Banglum, a mythical metal, volatile material, handle with care, it can explode"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:banglum_helmet",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Blast Padding"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:banglum_chestplate",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Blast Padding"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:banglum_leggings",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Blast Padding"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:banglum_boots",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Blast Padding"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_sword",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Natural Knockback III"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_pickaxe",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Blast Mining"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_axe",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Natural Knockback III"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_shovel",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Blast Mining"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_hoe",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Natural Knockback III"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_helmet",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Spiked Helmet"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_chestplate",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Natural Blast Resistence VI"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_leggings",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Natural Projectile Protection V"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:legendary_banglum_boots",
+            "link_recipe": true,
+            "text": "Give's you: $(br)$(#FFAA00)Natural Feather Falling III"
+        }
+    ]
+}

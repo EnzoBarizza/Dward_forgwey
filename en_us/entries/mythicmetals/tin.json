@@ -1,0 +1,13 @@
+{
+    "name": "Tin",
+    "category": "patchouli:metals",
+    "icon": "mythicmetals:tin_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:tin_ingot",
+            "title": "Tin",
+            "text": "Tin, a metal used alongside of $(item)Cooper$() to create $(item)Bronze$()"
+        }
+    ]
+}

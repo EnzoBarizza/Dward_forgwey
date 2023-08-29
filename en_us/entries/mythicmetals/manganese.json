@@ -1,0 +1,13 @@
+{
+    "name": "Manganese",
+    "category": "patchouli:metals",
+    "icon": "mythicmetals:manganese_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:manganese_ingot",
+            "title": "Manganese",
+            "text": "Metal used to produce $(item)Steel $()and $(item)Durasteel"
+        }
+    ]
+}

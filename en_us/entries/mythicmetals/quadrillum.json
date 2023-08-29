@@ -1,0 +1,13 @@
+{
+    "name": "Quadrillum",
+    "category": "patchouli:metals",
+    "icon": "mythicmetals:quadrillum_ingot",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mythicmetals:quadrillum_ingot",
+            "title": "Quadrillum",
+            "text": "Quadrillum, metal used to produce $(item)Durasteel$() alongside of $(item)Manganese$()"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Tier 1 Forges",
+    "category": "patchouli:forgery",
+    "icon": "alloy_forgery:stone_bricks_forge_controller",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Tier 1 Forges",
+            "text": "Hello again my dear $(playername), now we will learn about the conventional forges, you can build one even with some bricks or even stone. $(br2)This forges are good for synthesize simpler alloys"
+        },
+        "Fuel Capacity -> 48000",
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alloy_forgery:stone_bricks_forge"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Stone Bricks (Tier 1)",
+            "multiblock": {
+                "pattern": [
+                    [
+                        " D ",
+                        "D D",
+                        " D "
+                    ],
+                    [
+                        " D ",
+                        "D0C",
+                        " D "
+                    ],
+                    [
+                        "DDD",
+                        "DDD",
+                        "DDD"
+                    ]
+                ],
+                "mapping": {
+                    "D": "minecraft:stone_bricks",
+                    "C": "alloy_forgery:stone_bricks_forge_controller[facing=south]"
+                }
+            }
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alloy_forgery:bricks_forge"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Bricks (Tier 1)",
+            "multiblock": {
+                "pattern": [
+                    [
+                        " D ",
+                        "D D",
+                        " D "
+                    ],
+                    [
+                        " D ",
+                        "D0C",
+                        " D "
+                    ],
+                    [
+                        "DDD",
+                        "DDD",
+                        "DDD"
+                    ]
+                ],
+                "mapping": {
+                    "D": "minecraft:bricks",
+                    "C": "alloy_forgery:bricks_forge_controller[facing=south]"
+                }
+            }
+        },
+        {
+            "type": "patchouli:relations",
+            "title": "Tier 1 materials",
+            "text": "All materials that can be synthesize using forges tier 1",
+            "entries": [
+                "patchouli:mythicmetals/aquarium",
+                "patchouli:mythicmetals/banglum",
+                "patchouli:mythicmetals/bronze",
+                "patchouli:mythicmetals/manganese",
+                "patchouli:mythicmetals/midas_gold",
+                "patchouli:mythicmetals/quadrillum",
+                "patchouli:mythicmetals/silver",
+                "patchouli:mythicmetals/steel",
+                "patchouli:mythicmetals/tin"
+            ]
+        }
+    ]
+}

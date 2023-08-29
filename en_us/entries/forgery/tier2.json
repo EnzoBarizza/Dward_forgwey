@@ -1,0 +1,113 @@
+{
+    "name": "Tier 2 Forges",
+    "category": "patchouli:forgery",
+    "icon": "alloy_forgery:prismarine_bricks_forge_controller",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Tier 2 Forges",
+            "text": "Hello again my dear $(playername), now we will learn about the advanced forges, you will need some different materials for creating a forge that resist higher temperatures. $(br2)This forges are good for synthesize every single alloy, but are not fuel efficient for all cases"
+        },
+        "Fuel Capacity -> 96000",
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alloy_forgery:prismarine_bricks_forge"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Prismarine Bricks (Tier 2)",
+            "multiblock": {
+                "pattern": [
+                    [
+                        " D ",
+                        "D D",
+                        " D "
+                    ],
+                    [
+                        " D ",
+                        "D0C",
+                        " D "
+                    ],
+                    [
+                        "DDD",
+                        "DDD",
+                        "DDD"
+                    ]
+                ],
+                "mapping": {
+                    "D": "minecraft:prismarine_bricks",
+                    "C": "alloy_forgery:prismarine_bricks_forge_controller[facing=south]"
+                }
+            }
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alloy_forgery:deepslate_bricks_forge"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Deepslate Bricks (Tier 2)",
+            "multiblock": {
+                "pattern": [
+                    [
+                        " D ",
+                        "D D",
+                        " D "
+                    ],
+                    [
+                        " D ",
+                        "D0C",
+                        " D "
+                    ],
+                    [
+                        "DDD",
+                        "DDD",
+                        "DDD"
+                    ]
+                ],
+                "mapping": {
+                    "D": "minecraft:deepslate_bricks",
+                    "C": "alloy_forgery:deepslate_bricks_forge_controller[facing=south]"
+                }
+            }
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alloy_forgery:polished_blackstone_forge"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Polished Blackstone Bricks (Tier 2)",
+            "multiblock": {
+                "pattern": [
+                    [
+                        " D ",
+                        "D D",
+                        " D "
+                    ],
+                    [
+                        " D ",
+                        "D0C",
+                        " D "
+                    ],
+                    [
+                        "DDD",
+                        "DDD",
+                        "DDD"
+                    ]
+                ],
+                "mapping": {
+                    "D": "minecraft:polished_blackstone",
+                    "C": "alloy_forgery:polished_blackstone_forge_controller[facing=south]"
+                }
+            }
+        },
+        {
+            "type": "patchouli:relations",
+            "title": "Tier 2 materials",
+            "text": "All materials that can be synthesize using forges tier 2",
+            "entries": []
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Tier 3 Forges",
+    "category": "patchouli:forgery",
+    "icon": "alloy_forgery:end_stone_bricks_forge_controller",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Tier 3 Forges",
+            "text": "Hello again my dear $(playername), now we will learn about the legendaries forges, this forges are just legends, no one have ever seen this forges before. $(br2)This forges can synthesize every single alloy existent"
+        },
+        "Fuel Capacity -> 192000",
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alloy_forgery:end_stone_bricks_forge"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "End Stone Bricks (Tier 3)",
+            "multiblock": {
+                "pattern": [
+                    [
+                        " D ",
+                        "D D",
+                        " D "
+                    ],
+                    [
+                        " D ",
+                        "D0C",
+                        " D "
+                    ],
+                    [
+                        "DDD",
+                        "DDD",
+                        "DDD"
+                    ]
+                ],
+                "mapping": {
+                    "D": "minecraft:end_stone_bricks",
+                    "C": "alloy_forgery:end_stone_bricks_forge_controller[facing=south]"
+                }
+            }
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mythicmetals:adamantite_forge"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Adamantite Block (Tier 3)",
+            "multiblock": {
+                "pattern": [
+                    [
+                        " D ",
+                        "D D",
+                        " D "
+                    ],
+                    [
+                        " D ",
+                        "D0C",
+                        " D "
+                    ],
+                    [
+                        "DDD",
+                        "DDD",
+                        "DDD"
+                    ]
+                ],
+                "mapping": {
+                    "D": "mythicmetals:adamantite_block",
+                    "C": "alloy_forgery:adamantite_block_forge_controller[facing=south]"
+                }
+            }
+        },
+        {
+            "type": "patchouli:relations",
+            "title": "Tier 3 materials",
+            "text": "All materials that can be synthesize using forges tier 3",
+            "entries": []
+        }
+    ]
+}

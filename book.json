@@ -1,0 +1,15 @@
+{
+    "name": "Dwarf's Tome",
+    "subtitle": "Mythical Edition",
+    "landing_text": "Welcome my dear $(playername), in this book you will learn the ancient art of forging and about the special property of certain alloys, and how to synthesize them.",
+    "version": 0,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true,
+    "book_texture": "dwarf_forgery:textures/gui/book_red.png",
+    "model": "dwarf_forgery:dwarfs_tome",
+    "text_color": "ffffff",
+    "header_color ": "ded9d9",
+    "link_color": "ffff11",
+    "link_hover_color ": "77ff11",
+    "progress_bar_background": "222222"
+}
